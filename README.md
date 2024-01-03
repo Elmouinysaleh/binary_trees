@@ -96,11 +96,11 @@
 | [123-avl_remove.c](/123-avl_remove.c)|
 | [124-sorted_array_to_avl.c](/124-sorted_array_to_avl.c)|
 | [125-O](/125-O)|
-| [130-binary_tree_is_heap.c](/130-binary_tree_is_heap.c)|
-| [131-heap_insert.c](/131-heap_insert.c) - Task pending|
-| [132-array_to_heap.c](/132-array_to_heap.c) - Task pending|
-| [133-heap_extract.c](/133-heap_extract.c) - Task pending|
-| [134-heap_to_sorted_array.c](134-heap_to_sorted_array.c) - Task pending|
+| [130-binary_tree_is_heap.c](/130-binary_tree_is_heap.c) - Not complete|
+| [131-heap_insert.c](/131-heap_insert.c) |
+| [132-array_to_heap.c](/132-array_to_heap.c) |
+| [133-heap_extract.c](/133-heap_extract.c) -  Not complete|
+| [134-heap_to_sorted_array.c](134-heap_to_sorted_array.c) - Not complete|
 | [135-O](/135-O)|
 
 
